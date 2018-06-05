@@ -1,0 +1,156 @@
+body {
+	background-color: #f0f0f0;
+	margin-top: 0px;
+}
+
+.opening {
+	font-family: Franklin Gothic Block;
+}
+
+#logo {
+	width: 200px;
+	height: 100px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.navtab {
+	font-family: Franklin Gothic Book;
+	text-decoration: none;
+	float: right;
+	margin-top: 50px;
+}
+
+.navtab a:hover {
+	text-decoration: underline;	
+}
+
+.nav-tab {
+	text-decoration: none;
+	margin-right: 20;
+	color: grey;
+	font-size: 12pt;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+
+#mainheader {
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 45pt;
+}
+
+#redprint {
+	color: red;
+}
+/*mid section*/
+
+#logininfo {
+	font-weight: bold;
+	font-family: Franklin Gothic Book;
+}
+
+#viewlessons {
+	text-decoration: none;
+	color: blue;
+	font-family: Franklin Gothic Book;
+}
+
+.section{
+	text-align: center;
+}
+
+h3 {
+	font-size: 16pt;
+	font-family: Franklin Gothic Book;
+}
+
+.sect1p {
+	font-family: Franklin Gothic Book;
+}
+
+.blip {
+	padding: 50px;
+}
+
+
+/* Meet your instructors */
+
+.container {
+	background-color: white;
+}
+
+h4 {
+	font-size: 48px;
+	text-align: center;
+	font-family: Franklin Gothic Book;
+}
+
+.bio::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.instpic {
+	border-radius: 50%;
+	width: 100px;
+	float: left;
+}
+
+.instname {
+	font-size: 14pt;
+	font-family: Franklin Gothic Book;
+	padding: 0px;
+	margin-left: 125px;
+	color: #808080;
+	font-weight: bold;
+	
+}
+
+.description {
+		font-family: Franklin Gothic Book;
+		color: #808080;
+		margin-left: 125px;
+}
+
+.columns {
+	display: flex;
+	width: 1000px;
+	margin: auto;
+}
+
+.column {
+	flex: 5;
+}
+
+/* Footer */
+
+.footer {
+	font-family: Franklin Gothic Book;
+	color: grey;
+
+}
+
+.footernav {
+	text-decoration: none;
+	margin-right: 20;
+	color: grey;
+	font-size: 12pt;
+	margin-left: 18px;
+	margin-right: 18px;
+	font-family: Franklin Gothic Book;
+}
+
+span.footernav {
+	float: right;
+	
+}
+
+.widthcontainer {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
